@@ -4,7 +4,7 @@
 
 For this repository, I've created html templates and styling files in order to built a responsive portfolio ,  which can help to easy explorate  profiles from differents devices.
 
-![home_page](https://github.com/javitolez/Portfolio-setup-and-mobile-version-skeleton/blob/work_about_myself/statics/images/screenshot_home_page.png)
+![home_page](https://github.com/javitolez/Portfolio-setup-and-mobile-version-skeleton_-Javier-Lezama/blob/main/static/images/screenshot_home_page.png)
 
 ## Built With 🔨
 
